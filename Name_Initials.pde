@@ -1,4 +1,3 @@
-// add Initials code here
 void setup() {
 size(600,700);
 frameRate(10);
